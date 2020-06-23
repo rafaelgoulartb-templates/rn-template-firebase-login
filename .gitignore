@@ -60,3 +60,6 @@ buck-out/
 node_modules
 node_modules
 node_modules
+
+firebase.js
+google-services.json
